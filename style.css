@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Trad:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&family=Playwrite+FR+Trad:wght@100..400&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Glagolitic&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&family=Noto+Sans+Glagolitic&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+body{
+    background-color: whitesmoke;
+}
+.L{
+    font-size: 20px;
+    font-weight: 700;
+}
+.B{
+    border-width: 5px;
+    border-color: rgb(8, 189, 255);
+    border-style: solid;
+}
+.BE{
+    border-width: 5px;
+    border-color: rgb(15, 231, 36);
+    border-style: solid;
+    font-family: "Source Code Pro", monospace;
+}
+
+.CA{
+    border-width: 5px;
+    border-color: rgb(131, 43, 255);
+    border-style: solid;
+    font-family: "Source Code Pro", monospace;
+}
+    
+
+.CR{
+    border-width: 5px;
+    border-color: rgb(244, 139, 18);
+    border-style: solid;
+    font-family: "Source Code Pro", monospace;
+}
+.title{
+    border-width: 3px;
+    border-style: solid;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+}
+.title1{
+    border-width: 3px;
+    border-style: solid;
+    font-family: "Montserrat", sans-serif;
+    font-size: 7px;
+}
+.HC{
+    border-width: 3px;
+    border-style: solid;
+    font-family: "Rubik", sans-serif;
+    font-size: 15px;
+    font-family: "Source Code Pro", monospace;
+}
+.Profession{
+    color: rgb(116, 166, 103);
+    font-family: "Source Code Pro", monospace;
+}       
+.Prof{
+    font-family: "Noto Sans Glagolitic", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(4, 103, 241);
+}
+.Ayhan{
+    font-family: "Source Code Pro", monospace;
+    color: rgb(240, 115, 13);
+    text-align: center;
+}
+.ed{
+    font-size: 23px; 
+    font-family: "Hind Madurai", sans-serif;
+    font-weight: 500;
+    color: rgb(136, 109, 210);
+}
+.exp{
+    font-size: 23px; 
+    font-family: "Hind Madurai", sans-serif;
+    font-weight: 500;
+    color: rgb(136, 109, 210);   
+}
+.box{
+    width: 243px;
+    margin-left: 82.5%;
+    margin-top: -39.4%;
+    background-color: rgb(167, 218, 15);
+}
+.s{
+    color: rgb(17, 120, 246);
+    text-decoration: none;
+}
+.ep{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: -19.3%;
+}
+.par{
+    position: absolute;
+    margin-left: 28%;
+    margin-top: -19%;
+}
