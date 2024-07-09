@@ -6,6 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 body{
     background-color: wheat;
+    position: relative;
 }
 .L{
     font-size: 20px;
@@ -85,8 +86,9 @@ body{
 }
 .box{
     width: 243px;
-    margin-left: 82.5%;
-    margin-top: -39.4%;
+    position: relative;
+    left: 81.9%;
+    top: -710px;
     background-color: rgb(167, 218, 15);
 }
 .s{
@@ -94,12 +96,162 @@ body{
     text-decoration: none;
 }
 .ep{
-    position: absolute;
-    margin-left: 70%;
-    margin-top: -19.3%;
+    position: relative;
+    margin: auto;
+    margin-left: 81%;
+    top: -297px;
 }
 .par{
-    position: absolute;
-    margin-left: 28%;
-    margin-top: -19%;
+    position: relative;
+    margin-left: 36%;
+    margin-top: -615px;
+}
+@media(max-width:480px){
+    .Profession{
+        font-size: 22px;
+    }
+    .box{
+        position: relative;
+        top: -808px;
+    }
+    .L{
+        font-size: 16px;
+    }
+    .exp{
+        font-size:16px;
+    }
+    .Prof{
+        font-size: 16px;
+    }
+    .ed{
+        font-size: 16px;
+    }
+    .par{
+        left: -98px;
+        margin-top: -280px;
+    }
+    .ep{
+        position: relative;
+        top: -2px;
+    }
+    .pe{
+        position: relative;
+        right: -126px;
+    }
+    .box3{
+        position: relative;
+        left: 68px;
+    }
+}
+@media(min-height:840px){
+    .Profession{
+        font-size: 22px;
+    }
+    .box{
+        position: relative;
+        top: -805px;
+    }
+    .L{
+        font-size: 16px;
+    }
+    .exp{
+        font-size:16px;
+    }
+    .Prof{
+        font-size: 16px;
+    }
+    .ed{
+        font-size: 16px;
+    }
+    .par{
+        left: -98px;
+        margin-top: -280px;
+    }
+    .ep{
+        position: relative;
+        top: -2px;
+    }
+    .pe{
+        position: relative;
+        right: -126px;
+    }
+    .box3{
+        position: relative;
+        left: 124px;
+    }
+}
+@media(height:932px){
+    .Profession{
+        font-size: 22px;
+    }
+    .box{
+        position: relative;
+        top: -784px;
+    }
+    .L{
+        font-size: 16px;
+    }
+    .exp{
+        font-size:16px;
+    }
+    .Prof{
+        font-size: 16px;
+    }
+    .ed{
+        font-size: 16px;
+    }
+    .par{
+        left: -98px;
+        margin-top: -280px;
+    }
+    .ep{
+        position: relative;
+        top: -2px;
+    }
+    .pe{
+        position: relative;
+        right: -126px;
+    }
+    .box3{
+        position: relative;
+        left: 124px;
+    }
+}
+@media(height:658px){
+    .Profession{
+        font-size: 22px;
+    }
+    .box{
+        position: relative;
+        top: -915px;
+    }
+    .L{
+        font-size: 16px;
+    }
+    .exp{
+        font-size:16px;
+    }
+    .Prof{
+        font-size: 16px;
+    }
+    .ed{
+        font-size: 16px;
+    }
+    .par{
+        margin-right: 56px;
+        left: -110px;
+        margin-top: -280px;
+    }
+    .ep{
+        position: relative;
+        top: -2px;
+    }
+    .pe{
+        position: relative;
+        right: -98px;
+    }
+    .box3{
+        position: relative;
+        left: 100px;
+    }
 }
